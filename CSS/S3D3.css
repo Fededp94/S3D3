@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(85, 85, 255);
+  width: 100%;
+}
+
+header {
+  text-align: center;
+  font-family: Teko;
+  font-size: large;
+}
+
+form {
+  padding: 5vh;
+  margin: auto;
+  width: 50%;
+  background-color: #999999;
+}
+
+input {
+  margin-left: 40vh;
+}
+
+.listaCss {
+  margin: auto;
+  width: 50%;
+}
